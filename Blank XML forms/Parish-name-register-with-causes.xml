@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<register parish="insert-parish-name-here">
+    <encoder name="Your Name Here"/>
+    <!--I plan to publish these files online. If you want your name removed before I do so, you need to email me when you submit this to let me know that. Otherwise I will assume I have permission to give you credit by name.-->
+    <source href="paste web address of parish register source here"/>
+
+    <burials date-from="1665-01-01" date-to="1665-03-24">
+        <!--note Old Style dates: 1 Jan. to 25 March 1665 may be called 1664 in the register; call it 1665 below-->
+        <!--do not record extra information such as burial location. If no cause given, leave as "x"-->
+        <!--when filling in dates, leave year as is, fill in two-digit month for mm and two-digit day for dd-->
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <!--copy and paste extra lines as needed; delete any unused/blank lines-->
+    </burials>
+
+    <!--burials March 25-Dec. 31 1665-->
+
+    <burials date-from="1665-03-25" date-to="1665-12-31">
+
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <burial name="name here" date="1665-mm-dd" cause="x"/>
+        <!--copy and paste extra lines as needed; delete any unused/blank lines-->
+    </burials>
+
+    <!--burials Jan. 1st-March 24 1665/6-->
+    <burials date-from="1666-01-01" date-to="1666-03-24">
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <!--copy and paste extra lines as needed; delete any unused/blank lines-->
+    </burials>
+
+    <!--burials March 25-Aug. 31 1666-->
+    <burials date-from="1666-03-25" date-to="1666-08-31">
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <burial name="name here" date="1666-mm-dd" cause="x"/>
+        <!--copy and paste extra lines as needed; delete any unused/blank lines-->
+    </burials>
+
+</register>
